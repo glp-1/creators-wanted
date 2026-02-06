@@ -199,8 +199,8 @@
 
 .social-buttons a {
   display: block;
-  width: 120px;
-  height: 120px;
+  width: 100px;
+  height: 100px;
   background-size: cover;
   background-position: center;
   transition: transform 0.3s ease;
